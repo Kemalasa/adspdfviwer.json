@@ -1,5 +1,4 @@
-{
-  "Ads": [
+{"Ads": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
@@ -17,6 +16,6 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-    }
+   }
   ]
 }
